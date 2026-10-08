@@ -1,8 +1,8 @@
-# Hi, I'm Shahzeb Ahmed
+## Hi, I'm Shahzeb Ahmed
 
-# BS Artificial Intelligence Student  
-## Aspiring AI / Machine Learning Engineer  
-## Currently learning Python, Machine Learning, NLP and AI
+### BS Artificial Intelligence Student  
+### Aspiring AI / Machine Learning Engineer  
+### Currently learning Python, Machine Learning, NLP and AI
 
 ## About Me
 
